@@ -1,0 +1,54 @@
+@charset "utf-8";
+
+
+#first .jumbotron{
+	height: 15vh;
+}
+
+#first h1{
+	color: brown;
+	width: 500px;
+}
+
+#.container img{
+	width: 300px;
+}
+
+#four{
+	padding-bottom: 80px;
+}
+
+#introsecond a{
+	text-decoration: none;
+		color:orange;
+}
+
+#introsecond {
+	padding-top: 100px;
+	padding-bottom: 80px;
+}
+
+#accordionExample img{
+    border-radius: 10px;
+}
+
+.accordion{
+    box-shadow: 0 0 10px rgba(34,45,45,0.2);
+	border-radius:5px;
+	overflow:hidden;
+	font-family:"Quicksand", sans-serif;
+		
+}	
+
+.bodybg{
+	color:darkmagenta;
+	background-color:oldlace;
+}
+
+#QAsecond{
+	margin-top: 100px;
+}
+
+#QAsecond h3{
+	margin-top: 25px;
+}
