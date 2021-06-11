@@ -1,0 +1,83 @@
+@charset "utf-8";
+
+
+#first .jumbotron{
+	height: 15vh;
+}
+
+#first h1{
+	color:mediumvioletred;
+	width: 500px;
+}
+
+#.container img{
+	width: 300px;
+}
+
+#one{
+    color:teal;
+}
+
+#two{
+    color:indianred;
+}
+
+#two-1{
+    color:steelblue;
+	background-color:lavender;
+}
+
+#three-1{
+    color:steelblue;
+	background-color:lavender;
+}
+
+#four{
+	padding-bottom: 80px;
+}
+
+#introfirst {
+		color:teal;
+}
+
+#introsecond a{
+	text-decoration: none;
+		color:orange;
+}
+
+#introsecond {
+	padding-top: 100px;
+	padding-bottom: 80px;
+}
+
+#accordionExample img{
+    border-radius: 10px;
+
+}
+
+#introthird{
+	padding-bottom: 80px;
+}
+
+#introthird h2{
+	color:steelblue;
+	background-color:lavender;
+}
+
+.bodybg{
+	color:darkmagenta;
+	background-color:floralwhite;
+}
+
+#QAfirst{
+    color:teal;
+}
+
+#QAsecond{
+	margin-top: 100px;
+	padding-bottom: 80px;
+}
+
+#QAsecond h3{
+	margin-top: 25px;
+}
